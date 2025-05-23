@@ -32,9 +32,18 @@ Bu proje, gerçek zamanlı kamera görüntüsünden elde edilen kareler üzerind
 
 ## 📁 Dosya Yapısı
 
-```bash pip install ultralytics opencv-python torch
+```
 
 .
-├── elSayilariYolo11nv2.pt     # Eğitilmiş YOLOv8 model dosyası
+├── elSayilariYolo11nv2.pt     # Eğitilmiş YOLOv11 model dosyası
 ├── main.py                    # Ana uygulama kodu
 └── README.md                  # Açıklama dosyası
+
+```
+---
+## 📦 Gerekli Kütüphaneler
+
+Bu projeyi çalıştırmadan önce aşağıdaki kütüphanelerin sisteminizde kurulu olması gerekmektedir:
+
+```bash
+pip install ultralytics opencv-python torch
