@@ -8,7 +8,17 @@ Bu proje, gerçek zamanlı kamera görüntüsünden elde edilen kareler üzerind
 - Bu model ile çarpma bölme toplama çıkarma gibi matematiksel işlemler konusunda geliştirme yapılabilir
 - Bu model sizin hayal gücünüz ile geliştirilebilir :)
 ---
+## 👥 Hedef Kullanıcı Kitlesi
 
+Bu projeden geliştirmek isteyen veya eğlenmek isteyen kişiler faydalanabilir
+
+---
+## 👥 Katkı Yapanlar
+
+- **Ömer Çınar Yaman** – Öğrenci no: 2405902004– Yapay Zeka Operatörlüğü Bölümü 
+
+
+---
 ## 🚀 Özellikler
 
 - 📷 Web kamerası üzerinden canlı görüntü
@@ -47,3 +57,4 @@ Bu projeyi çalıştırmadan önce aşağıdaki kütüphanelerin sisteminizde ku
 
 ```bash
 pip install ultralytics opencv-python torch
+
