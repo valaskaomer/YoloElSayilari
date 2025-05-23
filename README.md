@@ -8,7 +8,17 @@ Bu proje, gerçek zamanlı kamera görüntüsünden elde edilen kareler üzerind
 - Bu model ile çarpma bölme toplama çıkarma gibi matematiksel işlemler konusunda geliştirme yapılabilir
 - Bu model sizin hayal gücünüz ile geliştirilebilir :)
 ---
+## 👥 Hedef Kullanıcı Kitlesi
 
+Bu projeden geliştirmek isteyen veya eğlenmek isteyen kişiler faydalanabilir
+
+---
+## 👥 Katkı Yapanlar
+
+- **Ömer Çınar Yaman** – Öğrenci no: 2405902004– Yapay Zeka Operatörlüğü Bölümü 
+
+
+---
 ## 🚀 Özellikler
 
 - 📷 Web kamerası üzerinden canlı görüntü
@@ -32,9 +42,35 @@ Bu proje, gerçek zamanlı kamera görüntüsünden elde edilen kareler üzerind
 
 ## 📁 Dosya Yapısı
 
-```bash pip install ultralytics opencv-python torch
+```
 
 .
-├── elSayilariYolo11nv2.pt     # Eğitilmiş YOLOv8 model dosyası
+├── elSayilariYolo11nv2.pt     # Eğitilmiş YOLOv11 model dosyası
 ├── main.py                    # Ana uygulama kodu
 └── README.md                  # Açıklama dosyası
+
+```
+---
+## 📦 Gerekli Kütüphaneler
+
+Bu projeyi çalıştırmadan önce aşağıdaki kütüphanelerin sisteminizde kurulu olması gerekmektedir:
+
+```bash
+pip install ultralytics opencv-python torch
+
+```
+## |✓| - |X| Kontrol listesi
+
+| Proje çalışıyor mu |✓|
+
+| Proje amacına hizmet ediyor mu |✓|
+
+| Proje güncel mi |✓|
+
+| Proje gelişime açık mı |✓|
+
+| Bu projeyi yapmak zor mudur |X|
+
+| Bu proje için gelişmiş sistemler gerekir mi |X|
+
+---
