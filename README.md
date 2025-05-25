@@ -15,7 +15,7 @@ Bu projeden geliştirmek isteyen veya eğlenmek isteyen kişiler faydalanabilir
 ---
 ## 👥 Katkı Yapanlar
 
-- **Ömer Çınar Yaman** – Öğrenci no: 2405902004– Yapay Zeka Operatörlüğü Bölümü 
+c **Ömer Çınar Yaman** – Öğrenci no: 2405902004– Yapay Zeka Operatörlüğü Bölümü 
 
 
 ---
@@ -59,18 +59,29 @@ Bu projeyi çalıştırmadan önce aşağıdaki kütüphanelerin sisteminizde ku
 pip install ultralytics opencv-python torch
 
 ```
-## |✓| - |X| Kontrol listesi
+## ✔ ÖĞRENCİ KONTROL LİSTESİ (Hazırlık + Teknik)
+- 1 Proje konusu belirlendi ve yapay zekâ yöntemine karar verildi. Haar, YOLO, Mediapipe vb. yöntemlerden biri seçildi ve README'de belirtildi. |✔|
 
-| Proje çalışıyor mu |✓|
+- 2 Kodlama aşaması tamamlandı ve sistem nesne/özellik tespiti yapabiliyor. Proje kameradan veya görselden veri alabiliyor; en az bir nesneyi başarıyla tespit ediyor. |✔|
 
-| Proje amacına hizmet ediyor mu |✓|
+- 3 Kullanılan yöntem kod içerisinde açıkça yorumlandı. Kod içindeki açıklamalar, hangi algoritmanın nerede kullanıldığını anlatıyor. |✔|
 
-| Proje güncel mi |✓|
+- 4 Tespit edilen nesne/özellik ekranda işaretleniyor. (bounding box, etiket, vb.) Algoritma çıktısı görsel olarak anlamlı hale getirildi. |✔|
 
-| Proje gelişime açık mı |✓|
+- 5 Çalışma çıktıları kayıt altına alındı. Ekran görüntüleri (.png, .jpg) ve/veya kısa bir tanıtım videosu hazırlandı. |✔|
 
-| Bu projeyi yapmak zor mudur |X|
+- 6 GitHub reposu oluşturuldu. Proje klasörü yapılandırıldı. (kod, README, çıktıdosyaları, poster) |✔|
 
-| Bu proje için gelişmiş sistemler gerekir mi |X|
+- 7 README.md dosyası eksiksiz hazırlandı. Proje tanıtımı, kurulum talimatları, örnek çıktı ve katkı bilgileri yer alıyor. |✔|
+
+- 8 QR kod üretildi QR, GitHub deposuna veya çıktı görsellerini içeren demo sayfasına yönlendirilmek üzere oluşturuldu. |✔|
+
+- 9 QR kod poster üzerine eklendi A4 veya A3 boyutundaki posterde, QR kod ve üniversite logosu görünür şekilde yer aldı. |✔|
+
+- 10 PDF proje posteri hazırlandı. Poster, proje özeti, ekran görüntüleri, kullanılan algoritmalar ve öğrenci bilgileriyle tamamlandı. |✔|
+
+- 11 GitHub’a poster ve çıktılar yüklendi poster.pdf ve outputs/ klasörü GitHub reposuna eklendi |✔|
+
+- 12 Grup halinde çalışıldıysa katkılar açıkça belirtildi. Her üyenin adı ve görev paylaşımı README’de yer alıyor; her üye GitHub üzerinden en az bir katkı sağladı. |✔|
 
 ---
